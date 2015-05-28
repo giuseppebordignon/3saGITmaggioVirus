@@ -1,0 +1,21 @@
+
+Body{
+Font-family: arial,verdana,helvetica;
+Color: purple;
+background-image: url( legno2.jpeg);
+Background-color: white;}
+h1{ 
+Font-family: sans-serif,"times new roman",arial;
+Background: yellow;}	
+A:link{
+Color: green;}
+A:visited{
+Color:  white;}
+p {
+    border: 5px solid red;
+}
+Sintassi {
+Text-align: justify;}
+
+
+ 
